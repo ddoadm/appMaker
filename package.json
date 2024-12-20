@@ -16,7 +16,7 @@
     "events": "^3.0.0",
     "express": "^4.17.1",
     "fs-extra": "^8.0.1",
-    "jimp": "^0.6.4",
+    "jimp": "^1.6.0",
     "phonegap-build-api": "^1.0.0",
     "request": "^2.88.0",
     "rimraf": "^2.6.3",
